@@ -4,7 +4,7 @@
 
 *Find AI jobs with the help of AI!*
 
-Re:cruiter is a prototyped end-to-end NLP recipe to automatically find job offers in your email, analyze and label them, and even reply back. 
+Re:cruiter is a prototyped end-to-end NLP recipe to automatically find job offers in your email, analyze and label them, and even reply back. [Check out Re:cruiter in action](https://www.linkedin.com/pulse/using-ai-analyze-job-recruitment-industry-bartmoss-st-clair/).
 
 ## Setup
 With pip, setup your virtual environment and run `pip install -r requirements.txt`,
