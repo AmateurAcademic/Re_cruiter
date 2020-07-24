@@ -153,7 +153,6 @@ py==1.8.1
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.20
-pycrypto==2.6.1
 pycurl==7.43.0.5
 pydash==4.7.6
 pydocstyle==4.0.1
