@@ -1,0 +1,526 @@
+name,email,subject,domain,firstname,lastname,language,date,message,prediction,class
+Max Mustermann,max@mustermann.com,Opening for Data Scientist in Phoenix AZ,mustermann.com,Max,Mustermann,en,2020-03-11,"Apply for this job
+Hello
+I have an urgent requirement. Please share your profile if you are interested.
+Here are the job details
+Title: Data Scientist
+Location: Phoenix AZ
+Type: Full Time/Permanent
+Job Description
+Job Description: Looking for Data Scientist having experience in developing and operationalizing AI/ML models. The ideal candidate should have strong programing experience in Python and Spark..
+Responsibilities:
+Perform data modelling using advanced statistical analysis, unstructured data processing and developing predictive models.
+Implement statistical and data mining techniques e.g. hypothesis testing, machine learning and retrieval processes on a large amount of data to identify trends, patterns and other retrieval information.
+Implement different machine learning techniques: Generalized Linear and Non- Linear models, Time Series Analysis, Random Forest, Gradient Boosted Machines, Text Mining, Deep Learning, Neural Networks, Supervised and Unsupervised methods using python and spark.
+Lead the development of high -performance algorithms for predictive analytics, Testing and implementing these algorithms in scalable, product-ready code
+Work with machine learning frameworks such as Scikit-Learn, H2O, Koras, and Tensor Flow.
+Perform model evaluation, tuning and performance and scalability of scientific techniques and communicate the findings
+Technology Skillset required:
+Python
+Spark
+Pyspark
+HIVE
+SQL
+Good to have
+Neural Networking
+H2O
+Keras
+TensorFl",1,1
+Max Mustermann,max@mustermann.com,"Data Science Project Manager -- Remote/Chicago, IL",mustermann.com,Max,Mustermann,en,2020-04-28,"Hello,
+I Hope you are doing well.
+Please have a glance on below requirement and let me know if you would like
+to pursue? If Yes, Please share your updated resume.
+Job Title: Data Science Project Manager
+Location: Chicago, IL
+Duration: Long-term contract
+Remote till Virus then Onsite.
+Job Description:
+3-5 years of experience managing Data related software products and projects
+Work with a team of data scientists and data engineers to proactively gather
+requirements, write business cases and ensure delivery
+Manage multiple priorities in a fast-evolving business, determining concrete
+next steps and removing roadblocks
+Facilitate conversations among stakeholders to make decisions and keep them
+informed of project progress and decisions
+Groom and publish an internal backlog of prioritized projects and their
+potential impact to facilitate strategic planning
+Participate in requirement writing and ticket preparation in conjunction
+with engineering leads
+Experience managing projects in CRISP-DM/ OSEMN/ TDSP with Data security
+compliance
+Experience in Azure, Spark, Jupyter and other data science tools
+Experience with Data Visualization tools like Power BI, etc.
+SQL skills, ability to perform effective querying involving multiple tables
+and subqueries
+Strong sense of personal accountability regarding decision-making, risk
+mitigation, and follow-ups
+Ability to predict challenges and seek to proactively head-off obstacles.",1,1
+Max Mustermann,max@mustermann.com,"Full Time Employment II Data Engineer II New York City, NY",mustermann.com,Max,Mustermann,en,2020-01-14,"Hi
+Hope you are doing great!
+Please go through the below mentioned job description and share you updated resume in case you feel interested.
+Full Time Employment
+Position : Data Engineer
+Location: New York City, NY
+Required Skills:-
+Experience in a Data Engineering role
+Proficiency with at least one programming language (our team uses Python)
+Good understanding of data – structured and unstructured
+Hands on experience working with large volumes of data; e.g., user Clickstream data, event-based log data, etc.
+Experience implementing data solutions with regulatory requirements
+Has a basic understanding of how data systems should be built to comply with data governance regulations like CCPA, GDPR and DP
+Familiar with both batch and streaming data processes a plus
+Experience modeling data for enterprise consumption a huge plus
+Have contributed to the development and maintenance of data technology/software; working in the e-commerce and/or retail space a huge plus
+Enjoy working on a Scrum Team in an agile delivery environment.
+Responsibilities:-
+Participate in analyzing, designing, coding, testing, configuring and modifying software for the functional delivery of data solutions
+Contribute to the automated delivery of data software using source control, infrastructure as code, and continuous integration throughout the entire delivery model
+Ensure that implemented data software is successfully monitored, with relevant alerts, logging and tracing that guarantee the relevant durability, availability and performance
+Validate that data solutions follow data governance policies, standards and intent
+Complete technical documentation that adds value, including but not limited to testing, training, governance and software delivery
+Lead data engineering efforts for regulatory compliance and governance",1,1
+Max Mustermann,max@mustermann.com,Job Opportunity Data Engineer in Dallas TX,mustermann.com,Max,Mustermann,en,2020-01-10,"
+Hello,
+Hope you’re doing good.
+I was trying to reach you for the roles of Data Engineer at Dallas TX for Fulltime
+Please have a look at the job, you may reply to this e-mail or call me directly to get in touch with me.
+Job Title: Data Engineer
+Location : Dallas TX
+Duration : Full Time
+Note :- Weekly Virtual phone drive
+JD –
+Looking data engineer with strong Java & Python Development experience consultants.",1,1
+Max Mustermann,max@mustermann.com,Job Senior Big data engineer is shared with you,mustermann.com,Max,Mustermann,en,2020-02-04,"Hello
+I am reaching out to you on an exciting job opportunity with one of our clients.
+Role : Senior Big data engineer
+Location : Plano, TX
+Type : Contract
+Qualification :
+·
+Senior Big Data Engineer with solid background on larger Hadoop ecosystem and real-time analytics tools including Scala, Python, PySpark/Spark/Hive/Kafka
+o
+Hands on programming experience in Scala, Python and Shell scripting
+o
+Experienced in creating and submitting Spark jobs using Scala and PySpark
+o
+Good understanding on NoSQL DBs such as Mongo DB
+o
+Big Data Analytic frameworks and query tools such as Spark, Hive
+o
+Experience with Kafka for Data ingestion is a plus",1,1
+Max Mustermann,max@mustermann.com,"JOB -- Machine Learning Engineer at Sunnyvale, CA",mustermann.com,Max,Mustermann,en,2020-01-03,"Hello,
+I have an opportunity with me you might be interested, Please review the Job specifications below and let me know if you may be interested in this opening or may refer someone to me for this.
+Title: Machine Learning Engineer
+Location: Sunnyvale , CA
+Duration: Contract
+Job Description:
+Minimum 8 years of overall experience
+Skills:
+Proficiency with Python and libraries for machine learning such as scikit-learn and pandas
+Expertise in visualizing and manipulating big datasets
+General understanding of operating system, e.g. Windows and Linux
+Outstanding analytical and problem-solving skills
+Excellent communication skills to connect and engage with business SMEs with quick understanding on business problem
+Ability to translate business problem into technical solution
+Ability to write robust code in Python, Spark and R
+Understanding of state-of-the-art Machine Learning techniques and have experience converting ML models to production grade, high volume scalable run time models
+Experience in some machine learning frameworks – Scikit, MLPack, TF, SparkMLib
+Experience with Docker, Containerization, AWS.
+Experience in RDBMS such as Postgres or SQL Server
+Ability to work with offshore team of engineers and making sure expectations are met and delivered to customer on time and right quality
+Add-on skills:
+Deep knowledge of math, probability, statistics and algorithms
+Understanding of data structures, data modelling
+Familiarity with machine learning frameworks (like Keras or PyTorch)",1,1
+Max Mustermann,max@mustermann.com,Job Data scientist is shared with you,mustermann.com,Max,Mustermann,en,2020-05-30,"Hello
+Hope you are doing great!!
+We are currently looking to fill urgent full-time permanent job positions as Data Scientist with the client based in Phoenix, AZ
+Kindly find the JD below and let me know if you are available for the same.
+Job Description:
+Job Title: Data Scientist
+Job Location: Phoenix, AZ
+Duration: Fulltime Permanent Hire
+Job Description:
+Strong problem solving skills with an emphasis on product development.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques
+A drive to learn and master new technologies and techniques.
+SUPERB communication skills with an emphasis on writing and interpreting abilities
+Excellent presentation skills.
+Knowledge and experience in statistical and data mining techniques: text mining, social network analysis, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analysing data from 3rd party providers.
+Experience visualizing/presenting data for stakeholders
+If Interested please reply me with your updated resume and required details:
+Full Name ( As per Legal Docs):
+Contact Number:
+Current Location:
+Required Sponsorship(Y/N):
+Expected annual salary:
+Phone Interview Availability:
+Availability to Join project:
+Skype Id :
+Waiting for your earliest response",1,1
+Max Mustermann,max@mustermann.com,"Urgent Need: : Data Scientist/ Senior Associate Data Scientist
+ Senior Data Scientist @ Richardson, TX/ Baskin Ridge, NJ/ Houston, TX/
+ Chicago, IL",mustermann.com,Max,Mustermann,en,2020-01-07,"Role: Data Scientist/ Senior Associate Data Scientist Senior Data Scientist
+Location:- Illinois, Chicago / Richardson, TX/ Baskin Ridge, NJ/ Houston, TX
+Job Description:-
+Qualifications
+Basic
+• Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+• At least 4 years of experience with Information Technology
+Preferred
+• At least 2 years of experience in statistical analysis tools (e.g. R & Python) - SAS, SPSS knowledge preferable
+• At least 2 years of experience in software development life cycle
+• At least 2 years of experience in Project life cycle activities on development and maintenance projects
+• Hands on experience in Statistical & Machine learning Techniques & Deep Learning such as Decision Tree, Segmentation, Logistic and Multiple Regression, and others.
+Also, experience in Advance Analytics i.e. LSTM, RANDOM FOREST, KNN algorithm neural networks etc.
+• Understanding of various Analytical Tools, Platform & Frameworks including Cloud platform (AWS. GCP, Azure), Hadoop and PYSPARK.
+• Experience in optimization (linear, mixed integer, constraint programming), simulation, rule based scoring and/or predictive analytics.
+• Understand the models created for a business problem and translate this into a technical solution using R / Python or equivalent tools; identify meaningful information out of data WITHIN the guidelines, policies and norms of Infosys
+• Develop statistical, machine learning or optimization models independently for low complexity projects and as per procedure outlined by Manager/Associate Principal for medium & high complexity projects using R / Python or equivalent tools
+• Assist clients in identifying type of analytics and management data that will directly relate to improving clients' market share or any other measure client is addressing. Identify the differentiators, map them to present-day environment, and then design an improvement plan
+• Demonstrates basic understanding of financial parameters and is aware of financial impact of activities and decisions taken by him/her and team.
+• Basic understanding of industry standards to document current customer compliance and gaps.
+• Hands-on development mentality, with a willingness to troubleshoot and solve complex problems
+• Strong written and oral communication skills
+• Ability to work in team in diverse/ multiple stakeholder environment
+• Analytical skills
+• Experience and desire to work in a Global delivery environment",1,1
+Max Mustermann,max@mustermann.com,"Immediate Interview | Sr Data Scientist Pharma with NLP expr | Contract | Raritan, NJ  '",mustermann.com,Max,Mustermann,en,2020-01-07,"Hi,
+I am reaching out to you on an exciting job opportunity with one of our clients.
+Job Description:-
+Job Title:- Sr Data Scientist – Pharma with NLP exp
+Location:- Raritan, NJ
+Job Type:- Contract
+Sr. Data Scientist
+•
+Data Scientist will help our clients to understand the value of the AI and advanced analytics and AI requirements for their business and help in building solutions to their problems.
+•
+The roles and responsibilities also include to work closely within a data scientist team and develop, grow & expand knowledge within the project and also for the client.
+•
+You will responsible to engage customers in learning and helping to Optimize the current Data Monetization processes using various AI techniques like NLP, Neural Net, Deep learning to improve UX of the customer journeys and detect signals and risks, events and/or optimize a cost of interactions with customers to Build, deploy, maintain the end-to-end solutions that reduce complexity and cost, by using the knowledge base of the team.
+Qualifications:
+•
+Total of 8 - 10 years of experience in IT.
+•
+Skills in some of the following domains are essential with minimum 5-6 strong implementations and specific experience is desirable.
+•
+Data Sciences and Machine Learning – Minimum 5 -6yrs of experience in developing Client models like Supervised and Un Supervised learning with Neural Net, Deep Learning algorithms
+•
+Language – Natural Language Processing, machine translation, language detection, classification with different aspects of dealing NLP like Phonology, Morphology
+•
+Experience building complex classification and other prediction models using machine learning
+•
+Linguistic Analysis – Different techniques of Syntax recognition, Semantics, Pragmatics with different approaches of Semantic analysis like Distributional, Frame based, Interactive learning et
+•
+Thought Leader who can conceptualize big vision and define plan for Machine Learning, metrics and deliverables.
+Core Skills:
+•
+Technical – deep aptitude and proficiency in programming and design techniques Python and any distribution like Tensor Flow and knowledge into Java, Web/DB development, Big Data, complex event processing, design patterns. Understanding of technical architectures and current state of the market in several technology areas.
+•
+Communications – strong written and oral communications skills; ability to establish credibility, initiation and incubation of new ideas and concepts, Desire to create practical new business applications based on innovative technologies, Leadership / Management –experience in team work and possibly in managing small teams.",1,1
+Max Mustermann,max@mustermann.com,"Job Opportunity|| AI/ML Engineer || Dearborn, MI",mustermann.com,Max,Mustermann,en,2020-03-03,"Hi
+Greetings!!!
+I got your profile from one of the Job board for an excellent position “AI/ML Engineer” at “Dearborn, MI” and thought to discuss the same with you. I am sharing the brief job descriptions of position for your reference below. If it excites you a bit, then call me or write an email to discuss further along with your most updated resume and rate expectation you are looking as it is open for Contract Position
+Below is Job Description for your reference
+Job Role: AI/ML Engineer
+Location: Dearborn, MI
+Type: Contract
+Required Skills:
+Experience in developing statistical/predictive models using Machine Learning Algorithms.
+Applied experience in EDA, Feature Engineering, Data Preprocessing
+Hands-on experience with common Data Science tool-kits such as Python/R/Matlab, SKlearn, NumPY, Pandas, Anaconda Jupyter
+Good to have experience in any visualization tool like QlikView/Alteryx/Tableau/Web Focus.
+Responsibilities:
+Able to apply data mining techniques, statistical analysis and building high quality prediction systems.
+Design and develop analytics solution. Able to perform hypotheses test and build actionable models to optimize business processes.
+Develop predictive models using machine learning techniques such as Linear Regression, Logistic Regression, KNN, Decision Trees, SVM, Lasso & Ridge Regression, Ensemble Methods etc.
+Perform Exploratory Data Analysis techniques, Feature Engineering, Feature Selection for Data Pre-Processing, cleansing, and verifying the integrity of data used for analysis.
+Perform Hyper-Parameter tuning and apply various Optimization techniques to enhance model performance.
+Analyze model performance using various evaluation metrics such RMSE, MSE, MAPE, Sensitivity, Precision, F1Score etc.
+Generate dashboards, standards or customized reports summarizing analytical solutions for review by the Stakeholders.",1,1
+Max Mustermann,max@mustermann.com,Client Name : ABC - Hiring JR/Mid Level/Senior Level Machine Learning Engineer - 10 Different openings,mustermann.com,Max,Mustermann,en,2020-04-30,"Hello,
+I hope all is well with you there. We have a new job order with ABC in Irving, TX -US.
+Hiring
+Jr/Sr Machine Learning Engineer. If you are available please apply
+Client Name : ABC
+Title: JR/Mid Level/Senior Level Machine Learning Engineer - 10 Different
+openings
+Location: Irving, TX , United States of America
+Duration : 12+ Months Contract,
+Interview Mode -
+Client will be taking a test in python, machine learning,
+data science and coding. The entire series will take 83 minutes and they
+need to finish it and pass the assessment before any interviews will be even
+scheduled. They need to be good with mathematical algorithms and be willing
+to take the test.
+Description: If you get
+excited about working on challenging problems and owning a solution from
+conception to implementation, read on!
+Ideal Candidate Description:
+You get excited reading about the latest advances in AI. You are
+intellectually curious and always pushing yourself to learn. Novel
+challenges drive you. Ambiguity is par for the course. You take pride in
+finding the simplest solution to complex problems. Doing the same thing
+every day would drive you crazy. You might not always know the answer off
+the top of your head, but you work hard to find the right solutions.
+Senior/Mid Level Machine Learning Engineer
+.
+6+ years of experience as senior developer/technical architect for
+high-tech products or services and you have 2+ years of hands-on experience
+delivering products or solutions that utilized Machine learning, Natural
+Language processing or other forms of AI solutions (Computer Vision/
+Mathematical Optimization) OR PhD in Computer Science with a strong track
+record of publications in the domains of Machine Learning, Computer Vision,
+Robotics, Reinforcement Learning, or NLP.
+.
+Mathematical understanding of a variety of statistical learning
+algorithms (Reinforcement Learning, Supervised/Unsupervised, Graphical
+Models)
+.
+Expertise in a variety of Deep Learning architectures and models
+including Residual Networks, RNN/CNN, Transformer, and/or Transfer Learning
+in a production environment
+.
+You have deep proficiency in at least one OO statically typed
+language (C, C++, Go) and Python
+.
+You are very fluent in one or more ML tools like Tensorflow,
+Pytorch, Caffe, and/or Theano and have solved several real-life problems
+using these
+.
+You preferably have proficiency and experience in NLP or Computer
+Vision
+.
+Knowledge acquired earning a degree in Computer Science or Math
+would be of great value in this position
+Title: Junior Machine Learning Engineer
+.
+2+ years of experience as a developer for high-tech products or
+services and you have 2+ years of hands-on experience delivering products or
+solutions that utilized Machine learning, Natural Language processing, or
+other forms of AI solutions (Computer Vision/ Mathematical Optimization) OR
+an MS in Computer Science with some experience with Machine Learning.
+.
+Mathematical understanding of a variety of statistical learning
+algorithms (Reinforcement Learning, Supervised/Unsupervised, Graphical
+Models)
+.
+Experience in a variety of Deep Learning architectures and models
+including Residual Networks, RNN/CNN,
+.
+Transformer, and/or Transfer Learning in a production environment
+.
+Proficiency in Python, Scala, or C++
+.
+You are very fluent in one or more ML tools like Tensorflow,
+Pytorch, Caffe, and/or Theano
+.
+Familiarity with some key concepts in Computer Vision
+.
+Knowledge acquired earning a degree in Computer Science or Math
+would be of great value in this position",1,1
+Max Mustermann,max@mustermann.com,"Most Urgent Need :: Machine Learning Engineer :: Santa Clara, CA
+ (REMOTE TILL COVID EPIDEMIC) :: Long Term Contract / Full Time (Permanent)",mustermann.com,Max,Mustermann,en,2020-03-24,"Hi,
+Title: Machine Learning Engineer
+Location: Santa Clara, CA (REMOTE TILL COVID EPIDEMIC)
+Type: Long Term Contract / Full Time (Permanent)
+Job Requirements:
+*
+Candidates should have done Machine Learning algorithm in production.
+*
+Should have a computer science background
+*
+Candidate must have worked done Productionised ML algorithm
+*
+Familiarity with algorithm
+*
+Candidate should be more on engineering side
+*
+Need to understand the entire Machine Learning pipeline and metrics.
+*
+Depth in either Spark or Scala or java.
+*
+Good at coding.
+*
+Need to know MLops: mlflow/ kubeflow and needs to have AWS machine learning",1,1
+Max Mustermann,max@mustermann.com,"Contract Job Opportunity //Sr. Machine Learning Engineering
+ Programmer // Chicago, IL",mustermann.com,Max,Mustermann,en,2020-05-22,"Greetings,
+Our records show that you are an experienced IT professional. This experience is relevant to one of my current openings.
+The opening requires ___Sr. Machine Learning Engineering Programmer___________ in addition to the above skills. It is located in Chicago, IL
+Position: Sr. Machine Learning Engineering Programmer
+Duration: Chicago, IL
+Duration: Long Term Contract
+Client
+is looking for a highly energetic and collaborative Machine Learning Engineering Programmer with experience programming microservices in the Advanced Analytics space. The ideal candidate should be an expert in Python some Java a plus , utilizing new and emerging technologies such as containerized deployments. Candidate should also have solid AWS experience and knowledge. A good understanding of the Analytics cycle with some experience building Neural Nets or predictive models especially the CRISP cycle strongly preferred.
+As a Sr. Engineer at ABC, this is your opportunity to
+- Exercise your strong decision making skills in terms of data analysis and architecting large data infrastructure
+- Create REST microservices in cutting edge platforms.
+- Work with Machine Learning experts utilizing pattern recognition, text mining, clustering, and AI
+- Work with Data Science experts working on cutting edge Machine Learning and Neural Net application deployment
+- Review functional and technical requirements, raising potential issues and participating actively in design discussions
+- Working as a member of a design, build and test Agile team continuously releasing new features
+- Key Responsibilities
+o Requirements and design
+o 80 coding and 20 review coding done by developers, analyze and help to solve problems
+o Integration
+o Testing
+o Feature Definition
+You bring
+- Bachelor s degree in Computer Science, Computer Engineering or a software related discipline. A Master s degree in a related field is an added plus
+- 3 6 years of experience in development of expert level Python applications and Data Engineering
+- 3 6 years of experience in AWS development
+- 3 6 years of experience in Microservices development
+For this role, we value
+- The ability to adapt quickly to a fast paced environment
+- Excellent written and oral communication skills
+- A critical thinker that challenges assumptions and seeks new ideas
+- Demonstrated analytical and problem solving skills ability to identify, formulate, and solve engineering problems
+- Demonstrated understanding of Algorithms, Data Structures, Object Oriented Design, Databases SQL NoSQL
+- Some Java a plus
+- Experience with RESTful Web Service Design
+- Experience with Azure, AWS or other Cloud based PaaS SaaS environments
+- CI CD Jira, Confluence, etc.
+- K8s Kubernetes or Pivotal Cloud Foundry or developing in any Containerized environment Garden, Docker, etc.
+- Knowledge of the Analytics cycle some experience predictive models especially CRISP cycle a plus.",1,1
+Max Mustermann,max@mustermann.com,"Data Engineer in Pittsburgh PA (client will pay for on-site, F2F
+ must)  W2 Only",mustermann.com,Max,Mustermann,en,2020-01-06,"Hi,
+Hope you are doing well,
+Hiring for below position. Review the description and if interested then let me know.
+Title: Data Engineer
+Location: Pittsburgh, PA(On-site Project)
+Duration: 6 months CTH
+Interview Mode: F2F Interview Must (client will pay for on-site)
+Has experience as a DBA in a traditional RDBMS setting and a lot of experience in the AWS systems we will be using as well S3, Athena, etc.
+All their experience seems highly relevant to what we are doing. python experience too.
+He is looking for someone with 3-6 years of experience working with Big Data Products, bridging data together, AWS, RDS, Athena & Redshift.
+Managing the data pipeline in BASH.
+Basic Analytics/Queries, run and operate data bases.
+Familiarity with GIS geography data is a big plus.
+The person would be working directly with their data scientist.
+Generally here is what I am looking for:
+- very strong experience owning and maintaining a data infrastructure that is shared by other people
+/
+teams and NOT just used by the same person for their own analysis.
+if you’re the only one to use it, it’s probably not robust, documented, maintainable, etc.
+This is the most important!
+- experience in traditional SQL environments (DBA type stuff)
+- experience in AWS big data environments
+- experience moving data back and forth in both directions between the two previous environments
+- automation
+/ scripting experience ... Bash and python especially",1,1
+Max Mustermann,max@mustermann.com,"REMOTE :: Big Data Project Manager for Hartford, CT",mustermann.com,Max,Mustermann,en,2020-05-29,"Hi
+Hope you are doing well !!
+We have an Urgent Contract Position with our Client. Let me know if you are interested in below mentioned job role. Please share your updated resume and best time to reach you.
+Title: Big Data Project Manager
+Location: (remote to start with COVID) then onsite in Hartford, CT once WFH lifts
+Start: ASAP
+Duration: Through end of year + extensions
+Interview Process: Webex with video for final round, start remotely and able to be onsite in Hartford CT once WFH lifts
+Job Description:
+Manage a business stakeholder partnership removing barriers and obstacles, allowing our customers to be successful using our technology.
+Serve as Tenant Advocate and Big Data representative across the enterprise, to influence platform development and operations, driven by tenant requirements.
+Core Responsibilities
+-
+Manage demand intake, consult with prospects, align use case with strategic path
+-
+Collaborate across technical teams for design, estimation, and execution
+-
+Strategically manage customer relationships, engagements and future roadmaps
+-
+New Tenant activity, UDP representation, Tenant Advocacy
+-
+Existing Tenant Management.
+-
+Regular cadence w/ tenants – health check, requirements, remove blockers, stay informed etc.
+-
+Represent BDD & Tenants in relevant discussions
+-
+Ad-Hoc project support, task management and escalation
+-
+Participate in tenant planning, strategy
+-
+Influence direction of platform advancement w/ tenant requirements
+Values & Focus:
+•Advocate for our tenants to ensure their requirements are satisfied and feedback is considered.
+Be their trusted, strategic partner
+•Be respectful of tenants’ time and resources, we strive to streamline tenant engagement, processes and how they interact with the platform
+•Efficient communication & information delivery – the right message, the right audience, delivered with complete information, clear direction and answer anticipated questions
+•Collaborate with UDP support team to forecast demand, educate tenants on standards & policy and generally represent our platform partners in tenant engagement
+•Be the experts for our work flows, and facilitate where we are not",1,1
+Max Mustermann,max@mustermann.com,"Urgent requirement//Chief Data Scientist. Kansas City, Missouri",mustermann.com,Max,Mustermann,en,2020-02-14,"Hello,
+Hope you're doing great.
+We have a position as Chief Data Scientist please have a look below requirement and let me know your interest.
+Chief Data Scientist
+Location:
+Kansas City, Missouri
+Long term Contract
+Key responsibilities:
+•
+Build machine learning models to solve business problems
+•
+Visualize and communicate data insights to business leaders
+•
+Query and extract data from business systems
+•
+Develop productionized data science analytics products
+•
+Design research methods and experimental design
+•
+Manage data science team members and data science projects
+Knowledge, skills and abilities:
+•
+12+ years experience with either R, Python, SAS, or Stata.
+•
+12+ years in-depth experience in SQL as well as a general knowledge of database and data warehousing theory.
+•
+10+ years experience in developing Machine Learning models to solve business problems such as Boosting Machines, SVM, Neural Networks and Decision Forests.
+•
+10+ years experience in a broad range of statistical techniques ranging from basic hypothesis testing to econometric and time series problems.
+•
+Deep knowledge of research methods, including proper research design ranging from randomized control experiments to pseudo-experimental methods.
+Masters degree in a quantitative field",1,1
+Max Mustermann,max@mustermann.com,"Urg Req for NLP Development Manager - NYC, NY and Charlotte, NC -
+ Fulltime Permanent Position",mustermann.com,Max,Mustermann,en,2020-03-04,"Hi,
+We have Direct client opening for NLP Development Manager location in NYC, NY and Charlotte, NC for Fulltime permanent position.
+Position: NLP Development Manager, ABC
+Location: NYC, NY and Charlotte, NC
+Duration: Fulltime permanent position
+Job description
+Responsible for managing the development of applications of Natural Language Processing and Data Analytics for several complex IT projects in Wholesale Credit and Banking Technology. Responsibilities include defining the project scope, goals and deliverables that support business needs in collaboration with senior management and stakeholders. Accountable for the agility of the project, communication channel including pitching solutions, challenges, development progress, and the timely completion of projects within the agreed upon time and budget. Coach, mentor, motivate and supervise project team members and influence them to take positive actions and accountability for their assigned work
+Required Skills
+5-10+ years of large-scale, business critical, technology change management experience in a fast-paced collaborative environment
+Ability to manage innovative technology projects
+Ability to manage multiple business stakeholders and technology leaders simultaneously.
+Strong Risk Management; Identify potential risks and escalate as needed, identify critical path activities, remove roadblocks to ensure progress
+Strong communication skills both written and verbal; ability to communicate at all levels; able to influence/challenge and negotiate with minimum direct supervision
+Knowledge of and adherence to agile and change standards for planning, executing, controlling and closing the technology components and deliverables within projects
+Demonstrated ability to make decisions, adapt to change
+Must be able to manage and influence talent in a matrixed environment
+Desired Skills
+Knowledge and strong interest in AI innovation trends, and advanced data analytics software applications.
+Wholesale Credit and Global Banking and Markets stakeholder management experience
+Experience in all aspects of the Software Development Lifecycle Agile methodologies
+Excellent presentation skills using change tools (project, financial, release, agile) and MS products such as Excel, Project, PowerPoint
+Developer background a plus.
+Believes diversity makes us stronger so we can reflect, connect and meet the diverse needs of our clients and employees around the world.
+Is committed to building a workplace where every employee is welcomed and given the support and resources to perform their jobs successfully.
+Wants to be a great place for people to work and strives to create an environment where all employees have the opportunity to achieve their goals.
+Provides continuous training and development opportunities to help employees achieve their career goals, whatever their background or experience.
+Is committed to advancing our tools, technology, and ways of working to better serve our clients and their evolving business needs.
+Believes in responsible growth and is dedicated to supporting our communities by connecting them to the lending, investing and giving them what they need to remain vibrant and vital.
+Fill this below info & reply me back with your updated resume ASAP.
+Full Legal name:
+Education:
+Total experience in NLP (Natural Language Processing) :
+Total experience in Data Analytics:
+Total experience in Managerial / Lead role:
+Contact number:
+Current location:
+Expected salary:
+Which location do you prefer - NYC or Charlotte, NC?
+Are you willing to relocate:
+Visa status:
+Availability:",1,1

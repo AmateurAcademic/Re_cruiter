@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bartmoss St. Clair",
+        "email": "bartmoss.bs@gmail.com",
+        "subject": "interested Test mail",
+        "domain": "gmail.com",
+        "firstname": "Bartmoss",
+        "message": "Some message",
+        "lastname": "St. Clair",
+        "language": "de",
+        "reply": "uninterested",
+        "date": "2020-06-08"
+    }
+]
