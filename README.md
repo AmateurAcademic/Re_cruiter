@@ -1,4 +1,4 @@
-# Recruiter 
+# Re:cruiter 
 
 <img src="https://github.com/AmateurAcademic/Re_cruiter/blob/master/Re_Cruiter_icon.png" width=20% height=20%>
 
