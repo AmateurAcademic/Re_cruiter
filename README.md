@@ -1,6 +1,6 @@
 # Recruiter 
 
-<img src="https://github.com/AmateurAcademic/recruiter_bot/blob/ddev/files/visuals/Re_Cruiter_icon.png" width=20% height=20%>
+<img src="https://media-exp1.licdn.com/dms/image/C4E12AQHjqhHVRktWZA/article-inline_image-shrink_1000_1488/0?e=1601510400&v=beta&t=_3fILvWNZq5nRcsrgOYBB_MxRmjIBuErAauRtK0kM2cg" width=20% height=20%>
 
 *Find AI jobs with the help of AI!*
 
