@@ -108,7 +108,7 @@ Therefore, we will first search through the email subjects for the keywords in `
 
 
 ### 3.3 Clean subject texts and extraction location with SpaCy
-A little bit of cleaning (i.e. remove 're:') is required to improve location tagging. Depending on the language of the email from MailHandler stored in the recruiter dataframe, it is recommeneded to stick with the same language model in [SpaCy](https://spacy.io/). By default, the English model is used (for installation of SpaCy, follow these [instructions](https://spacy.io/usage).
+A little bit of cleaning (i.e. remove 're:') is required to improve location tagging. Depending on the language of the email from MailHandler stored in the recruiter dataframe, it is recommeneded to stick with the same language model in [SpaCy](https://spacy.io/). By default, the English model is used (for installation of SpaCy, follow these [instructions](https://spacy.io/usage)).
 
 The results are appeneded to the recruiter dataframe as a column ("location"). The SpaCy model used for named entity recognition can have issues detecting locations in subjects. This will be supplemented in 4.2. 
 
