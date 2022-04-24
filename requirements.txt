@@ -157,7 +157,7 @@ pycurl==7.43.0.5
 pydash==4.7.6
 pydocstyle==4.0.1
 pyflakes==2.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 pylint==2.4.4
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
